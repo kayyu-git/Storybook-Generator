@@ -1,0 +1,279 @@
+[Node Text]
+Annnnnnnnd, you're out of there. Eventually another adventurer manages to find the mythical treasure, and lives the rest of his days in glory and wealth, while you are scorned and socially shunned. At least you're alive, right? 
+[Node End]
+
+[Node Text]
+You died. That's unfortunate.
+[Node End]
+
+[Node Text]
+You made it! You successfully traversed the traps and opponents of the crypt, while gathering riches and treasure! You are a hero, and live in luxury for the rest of your days.
+[Node End]
+
+[Node Text]
+Welcome to The Dark Crypt! This is an interactive story. At points throughout the story, you will be able to choose your character's next course of action by entering a valid integer value. Keep in mind that all stat modifiers are completely random! Enjoy!
+[Node Option Text]
+(1) Continue.
+[Node Option Next]
+4
+[Node Option End]
+[Node End]
+
+[Node Text]
+The Dark Crypt. A several hundred year old structure. Originally a burial chamber built by some long-forgotten race, it lay undisturbed for a couple of centuries.  It was uncovered, opened, and stripped of its grave goods; then a group of bandits (or maybe they were a fugitive cult of devil-worshippers; it’s hard to say) dug out a secret hideaway behind the original tombs.  Other tenants moved in later.  It is now occupied by a tribe of cave trolls, who use it as a place from which to stage raids on nearby human and elven settlements. As a poor, simple adventurer, you've heard tales of the wealth stored within the crypt - and so you come, looking for your fortune.
+[Node Option Text]
+(1) Continue.
+[Node Option Next]
+5
+[Node Option End]
+[Node End]
+
+[Node Text]
+The crypt was built into the side of a mountain, with an elaborate carved stone façade.It was later partially covered by landslides.You see what looks like a natural cave entrance, big enough for a man to enter comfortably. Only when you get inside do you notice that the walls are carved stone, covered with hauntingly beautiful patterns of interwoven lines and strange writing in a language no living man knows.
+[Node Option Text]
+(1) Head further into the crypt.
+[Node Option Next]
+7
+[Node Option End]
+[Node Option Text]
+(2) This seems like a good time to leave.
+[Node Option Next]
+0
+[Node Option End]
+[Node Option Text]
+(3) Check your stats.
+[Node Option Next]
+6
+[Node Option End]
+[Node End]
+
+[Node Text]
+outputStats()
+[Node Option Text]
+(1) Continue.
+[Node Option Next]
+5
+[Node Option End]
+[Node End]
+
+[Node Text]
+You find yourself in a large chamber.The floor is wet from seepage of groundwater through the ceiling.There is an elaborate set of double brass doors, open slightly, leading into another area.
+[Node Option Text]
+(1) Continue.
+[Node Option Next]
+8
+[Node Option End]
+[Node End]
+
+[Node Text]
+The outer chamber of the crypt.The double doors leading to the inner chamber are also ajar; these doors are more deteriorated due to the dampness.
+[Node Option Text]
+(1) Continue.
+[Node Option Next]
+9
+[Node Option End]
+[Node End]
+
+[Node Text]
+There are stone doors in all directions.  Each door is marked with the name of the deceased in elaborate writing.  You know that nobody can read the names; it’s a lost language.
+[Node Option Text]
+(1) The door on the left.
+[Node Option Next]
+10
+[Node Option End]
+[Node Option Text]
+(2) The door in the middle.
+[Node Option Next]
+11
+[Node Option End]
+[Node Option Text]
+(3) The door on the right.
+[Node Option Next]
+10
+[Node Option End]
+[Node End]
+
+[Node Text]
+The burial chamber is elaborately decorated, and contains a stone sarcophagus.The lid is ajar, or off, and there’s a scattering of old bones(humanoid of some sort) inside.There is no treasure, and nothing of significance; the grave robbers came and went long ago.
+[Node Option Text]
+(1) Head back to the chamber.
+[Node Option Next]
+9
+[Node Option End]
+[Node End]
+
+[Node Text]
+The burial chamber is decorated to the extreme; the king / chieftain / high priest / Mr.Moneybags was buried here. You see a door on the far end.
+[Node Option Text]
+(1) Move on.
+[Node Option Next]
+12
+[Node Option End]
+[Node Option Text]
+(2) Nope. Nope, nope, nope, nope, nopeeeeeee.
+[Node Option Next]
+0
+[Node Option End]
+[Node End]
+
+[Node Text]
+Two dogs are chained to the walls in here when not in use.The chains are long enough that no one can pass through without the dogs having something to say about it.The dogs will attack anyone who’s not a cave troll.
+[Node Option Text]
+(1) Fight 'em! (Strength)
+[Node Option Next]
+13
+[Node Option Stat]
+Strength
+[Node Option End]
+[Node Option Text]
+(2) Sneak past. (Agility)
+[Node Option Next]
+13
+[Node Option Stat]
+Agility
+[Node Option End]
+[Node Option Text]
+(3) Book it.
+[Node Option Next]
+0
+[Node Option End]
+[Node End]
+
+[Node Text]
+You manage to make it past the dogs, and find yourself in the cave trolls' main living area. There are a lot of trolls here. And they're not very happy.
+[Node Option Text]
+(1) Continue.
+[Node Option Next]
+14
+[Node Option End]
+[Node End]
+
+[Node Text]
+A troll heads towards you.
+[Node Option Text]
+(1) Ready your sword. (Endurance)
+[Node Option Next]
+15
+[Node Option Stat]
+Endurance
+[Node Option End]
+[Node Option Text]
+(2) Flee!
+[Node Option Next]
+0
+[Node Option End]
+[Node End]
+
+[Node Text]
+A troll heads towards you.
+[Node Option Text]
+(1) Ready your sword. (Endurance)
+[Node Option Next]
+16
+[Node Option Stat]
+Endurance
+[Node Option End]
+[Node Option Text]
+(2) Flee!
+[Node Option Next]
+0
+[Node Option End]
+[Node End]
+
+[Node Text]
+A troll heads towards you.
+[Node Option Text]
+(1) Ready your sword. (Endurance)
+[Node Option Next]
+17
+[Node Option Stat]
+Endurance
+[Node Option End]
+[Node Option Text]
+(2) Flee!
+[Node Option Next]
+0
+[Node Option End]
+[Node End]
+
+[Node Text]
+A troll heads towards you.
+[Node Option Text]
+(1) Ready your sword. (Endurance)
+[Node Option Next]
+18
+[Node Option Stat]
+Endurance
+[Node Option End]
+[Node Option Text]
+(2) Flee!
+[Node Option Next]
+0
+[Node Option End]
+[Node End]
+
+[Node Text]
+You enter the next room after killing the trolls. The cave trolls store and prepare food here; there is also a clutch of six cave spider eggs.The statue in the corner is a masterwork representation of a six - foot humanoid with long, bony fingers and flattened facial features.It is dressed in layers of robes, and holds a long staff.The statue would be worth a fortune if you could haul it out and sell it to a collector.You can’t; there’s a spell gluing it to the floor.
+[Node Option Text]
+(1) Head further into the crypt.
+[Node Option Next]
+19
+[Node Option End]
+[Node End]
+
+[Node Text]
+This portion of the crypt was remodeled into a treasure vault by Nognor, an ambitious evil sorcerer who is now long dead (hopefully).  These passages have not been trodden in hundreds of years.
+[Node Option Text]
+(1) Keep moving.
+[Node Option Next]
+20
+[Node Option End]
+[Node End]
+
+[Node Text]
+There is a rickety wooden bridge spanning a 15 foot wide pit.  In the pit is what looks like tar or black oil; it’s actually a black slime monster that Nognor captured and, by means of a curse, has imprisoned here to serve as a trap.  The slime cannot move out of the pit or attack anyone on the bridge above.  The curse has made the slime immortal . . . but it hasn’t eaten in a couple centuries, and the bridge is quite dilapidated. Will it hold?
+[Node Option Text]
+(1) Cross the bridge. Carefully. (Luck)
+[Node Option Next]
+21
+[Node Option Stat]
+Luck
+[Node Option End]
+[Node Option Text]
+(2) Turn back.
+[Node Option Next]
+0
+[Node Option End]
+[Node End]
+
+[Node Text]
+This door has a permanent magic mouth spell on it.  When you are within 10 feet of the door, it announces in a loud voice:TURN BACK!TURN BACK!COME NO FURTHER, FOR DEATH AWAITS YOU  WITHIN!THE CURSE OF NOGNOR BE UPON YOU IF YOU TAKE ANOTHER STEP!
+[Node Option Text]
+(1) Try to undo the spell. (Intelligence)
+[Node Option Next]
+22
+[Node Option Stat]
+Intelligence
+[Node Option End]
+[Node Option Text]
+(2) Time to leave!
+[Node Option Next]
+0
+[Node Option End]
+[Node End]
+
+[Node Text]
+You find yourself in Nognor's treasure room. There is treasure untold here - and in the center of the room is Nognor's guardian/secretary/treasurer. A Wraith Knight.
+[Node Option Text]
+(1) Fight with all your strength! (Strength)
+[Node Option Next]
+2
+[Node Option Stat]
+Strength
+[Node Option End]
+[Node Option Text]
+(2) Screw it!
+[Node Option Next]
+0
+[Node Option End]
+[Node End]
